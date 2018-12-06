@@ -1,1 +1,5 @@
 *.mat filter=lfs diff=lfs merge=lfs -text
+exdata/exper.mat filter=lfs diff=lfs merge=lfs -text
+exdata/modulate.mat filter=lfs diff=lfs merge=lfs -text
+exdata/neural.mat filter=lfs diff=lfs merge=lfs -text
+exdata/stats.mat filter=lfs diff=lfs merge=lfs -text
